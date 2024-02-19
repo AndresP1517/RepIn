@@ -1,14 +1,30 @@
-h1{
+h1 {
     color: rebeccapurple;
     font-family: cursive;
 }
-.p1{
+
+.p1 {
     color: green;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: yellow;
 }
-.p2{
+
+.p2 {
     color: thistle;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: green;
+}
+
+p {
+    font-style: italic;
+}
+
+#ph1 {
+    font-size: x-large;
+}
+
+[estrellita] {
+    background-color: black;
+    color: aliceblue;
+    font-style: inherit;
 }
